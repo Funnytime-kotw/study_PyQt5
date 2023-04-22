@@ -45,7 +45,7 @@ class MyWindow(QWidget):
 if __name__ == "__main__":
     app = QApplication(sys.argv)
     w = MyWindow()
-    w.setWindowTitle("这是一个测试程序")
+    w.setWindowTitle("这是测试程序")
     w.show()
     app.exec_()
 
