@@ -1,5 +1,10 @@
 # study_PyQt5
 
+## 参考资料
+
+1. [b站PyQt5快速入门](https://www.bilibili.com/video/BV1LT4y1e72X)
+2. [视频教程文档](https://doc.itprojects.cn/0001.zhishi/python.0008.pyqt5rumen/index.html#/01.jieshaoyuanzhuang)
+
 ## 安装PyQt5
 
 ```python
@@ -39,7 +44,7 @@ if __name__ == '__main__':
 
 ### 模块介绍
 
-PyQt中有非常多的功能模块,开发中最常用的功能模块主要有三个:
+PyQt中有非常多的功能模块，开发中最常用的功能模块主要有三个:
 
 - **QtCore**:包含了核心的非GUI的功能。主要和时间、文件与文件夹、各种数据、流、URLs、mime类文件、进程与线程一起使用
 - **QtGui**:包含了窗口系统、事件处理、2D图像、基本绘画、字体和文字类
